@@ -435,3 +435,8 @@ FodyWeavers.xsd
 !.vscode/launch.json
 !.vscode/extensions.json
 *.code-workspace
+
+# Executables and object files
+*.exe
+*.o
+*.obj
