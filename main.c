@@ -42,8 +42,6 @@ bool is_check(const char numbers[])
     }
     return true;
 }
-
-// Works seamlessly for any length between 1 and 32 bits
 unsigned int calculate(const char numbers[])
 {
     unsigned int result = 0;
